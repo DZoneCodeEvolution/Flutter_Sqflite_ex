@@ -1,6 +1,6 @@
 # sqllitedatabase_example
 
-A new Flutter application.
+Simple Sqflite Example in Flutter.
 
 ## Getting Started
 
